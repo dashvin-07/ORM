@@ -55,5 +55,7 @@ urlpatterns = [
 ![Screenshot 2024-12-07 083139](https://github.com/user-attachments/assets/4f0b50fd-c03e-46a6-8176-f7d25067bacb)
 
 
+![er diagram](https://github.com/user-attachments/assets/5113ee67-f0b1-42fb-aea1-22160f8b3db4)
+
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
